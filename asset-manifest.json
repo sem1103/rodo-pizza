@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rodo-pizza/static/css/main.12e13a4a.css",
+    "main.js": "/rodo-pizza/static/js/main.69cfb077.js",
+    "index.html": "/rodo-pizza/index.html",
+    "static/media/close.svg": "/rodo-pizza/static/media/close.0f0fb6caaf346dfefcbe.svg",
+    "main.12e13a4a.css.map": "/rodo-pizza/static/css/main.12e13a4a.css.map",
+    "main.69cfb077.js.map": "/rodo-pizza/static/js/main.69cfb077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e13a4a.css",
+    "static/js/main.69cfb077.js"
+  ]
+}
